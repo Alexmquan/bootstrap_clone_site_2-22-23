@@ -1,0 +1,33 @@
+.fb-logo {
+  height: 4vh;
+  width: auto;
+}
+
+.bg-img-fire {
+  background-image: url(https://images.unsplash.com/photo-1543005472-1b1d37fa4eae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZmlyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+  min-height: 40vh;
+  background-size: cover;
+  background-position: start;
+}
+
+.bg-img-a {
+  background-image: url(https://images.unsplash.com/photo-1524207874394-5ec7c8c8e1a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80);
+}
+
+.bg-img-b {
+  background-image: url(https://images.unsplash.com/photo-1604162953277-caf22e545661?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YnJvd258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+}
+
+.bg-img-c {
+  background-image: url(https://images.unsplash.com/photo-1519181245277-cffeb31da2e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHJlZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+}
+
+.img-box {
+  height: 40vh;
+  width: 25vw;
+  text-shadow: .5em;
+}
+
+h2 {
+  -webkit-text-stroke: 1px black;
+}
